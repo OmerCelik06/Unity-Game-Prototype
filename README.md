@@ -4,7 +4,7 @@ This is a short horror game prototype I made using Unity and C#. The game uses a
 
 ## Gameplay Video
 
-[Watch Gameplay](demo_viswo.mp4)
+[Watch Gameplay](demo_video.mp4)
 
 ## Technologies
 - Unity
